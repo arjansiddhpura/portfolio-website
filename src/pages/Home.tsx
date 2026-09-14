@@ -27,7 +27,7 @@ export function Home() {
         </Reveal>
         <RevealText
           className="hero-title"
-          text="Design is not only how it looks or feels, it is also how it works."
+          text="Design is not just what it looks like and feels like. Design is how it works."
           delay={80}
         />
         <Reveal className="quote-attr" delay={260}>
